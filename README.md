@@ -1,4 +1,4 @@
-# Player Movement, Collectables, Health, and Score System in Unreal Engine
+# EX NO : 2  Player Movement, Collectables, Health, and Score System in Unreal Engine
 
 ## Aim
 To implement a basic player controller using the Character class in Unreal Engine, with movement controls, collectable items, a health system, and a score display.
